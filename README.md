@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Saman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamanQasempour&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanQasempour&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 My Projects
 
 | Project | Description | Link |

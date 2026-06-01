@@ -1,6 +1,12 @@
-# Hi there, I'm Saman! 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamanQasempour/SamanQasempour/main/1780351205037(1).png" width="180" style="border-radius:50%"/>
+</p>
 
-> *"I fight hard for my dreams and I'm always pushing forward."*
+<h1 align="center">Hi there, I'm Saman! 👋</h1>
+
+<p align="center">
+  <i>"I fight hard for my dreams and I'm always pushing forward."</i>
+</p>
 
 ---
 

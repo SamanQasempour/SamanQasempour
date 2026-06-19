@@ -2,7 +2,7 @@
   <img src="new.png" width="180" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Saman! 👋</h1>
+<h1 align="center">Hi there, I'm Saman Qasempour! 👋</h1>
 
 <p align="center">
   <i>"I fight hard for my dreams and I'm always pushing forward."</i>

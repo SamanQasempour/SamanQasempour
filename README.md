@@ -62,26 +62,10 @@
 
 ---
 
-## 🗺️ Current Learning Roadmap
 
-```text
-✅ Linux Administration
-✅ Git & GitHub
-✅ Docker
-✅ Python Automation
-✅ Server Management
-✅ CI/CD Fundamentals
-
-🔄 Kubernetes
-🔄 Terraform
-🔄 Ansible
-
-🎯 AWS
-🎯 Prometheus
-🎯 Grafana
-🎯 ELK Stack
-🎯 Infrastructure as Code
-```
+<p align="center">
+  <img src="./assets/roadmap.svg" width="100%">
+</p>
 
 ---
 

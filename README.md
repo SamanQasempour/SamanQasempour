@@ -50,7 +50,14 @@ Current Goal:
 </div>
 
 ---
+## ☁️ Cloud & DevOps Ecosystem
 
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=for-the-badge&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux)
+
+---
 ## 🎯 DevOps Skill Matrix
 
 ```text

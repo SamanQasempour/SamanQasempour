@@ -56,6 +56,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" />
+
+</div>
+
+---
+
 <p align="center">
   <img src="./assets/roadmap.svg" width="100%">
 </p>

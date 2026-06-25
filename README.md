@@ -56,11 +56,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="./assets/skills.svg" width="100%">
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" />
-
-</div>
 
 ---
 

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+
+  <defs>
+    <linearGradient id="progress" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3FB950"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" rx="20" fill="#0D1117"/>
+  <rect x="1" y="1" width="998" height="598" rx="19" fill="none" stroke="#30363D"/>
+
+  <text x="40" y="60" fill="#58A6FF" font-size="30" font-weight="bold">
+    DevOps Roadmap
+  </text>
+
+  <text x="40" y="95" fill="#8B949E" font-size="16">
+    My Journey to Becoming a Professional DevOps Engineer
+  </text>
+
+  <text x="40" y="140" fill="#C9D1D9" font-size="18">
+    Progress
+  </text>
+
+  <rect x="40" y="155" width="800" height="24" rx="12" fill="#21262D"/>
+  <rect x="40" y="155" width="480" height="24" rx="12" fill="url(#progress)"/>
+
+  <text x="860" y="173" fill="#58A6FF" font-size="18">
+    60%
+  </text>
+
+  <!-- Completed -->
+
+  <text x="50" y="250" fill="#3FB950" font-size="24" font-weight="bold">
+    COMPLETED
+  </text>
+
+  <circle cx="70" cy="300" r="8" fill="#3FB950"/>
+  <text x="95" y="306" fill="#C9D1D9" font-size="18">Linux Administration</text>
+
+  <circle cx="70" cy="340" r="8" fill="#3FB950"/>
+  <text x="95" y="346" fill="#C9D1D9" font-size="18">Git & GitHub</text>
+
+  <circle cx="70" cy="380" r="8" fill="#3FB950"/>
+  <text x="95" y="386" fill="#C9D1D9" font-size="18">Docker</text>
+
+  <circle cx="70" cy="420" r="8" fill="#3FB950"/>
+  <text x="95" y="426" fill="#C9D1D9" font-size="18">Python Automation</text>
+
+  <circle cx="70" cy="460" r="8" fill="#3FB950"/>
+  <text x="95" y="466" fill="#C9D1D9" font-size="18">CI/CD Fundamentals</text>
+
+  <!-- Learning -->
+
+  <text x="380" y="250" fill="#D29922" font-size="24" font-weight="bold">
+    LEARNING NOW
+  </text>
+
+  <circle cx="400" cy="300" r="8" fill="#D29922"/>
+  <text x="425" y="306" fill="#C9D1D9" font-size="18">Kubernetes</text>
+
+  <circle cx="400" cy="340" r="8" fill="#D29922"/>
+  <text x="425" y="346" fill="#C9D1D9" font-size="18">Terraform</text>
+
+  <circle cx="400" cy="380" r="8" fill="#D29922"/>
+  <text x="425" y="386" fill="#C9D1D9" font-size="18">Ansible</text>
+
+  <!-- Goals -->
+
+  <text x="700" y="250" fill="#58A6FF" font-size="24" font-weight="bold">
+    NEXT GOALS
+  </text>
+
+  <circle cx="720" cy="300" r="8" fill="#58A6FF"/>
+  <text x="745" y="306" fill="#C9D1D9" font-size="18">AWS</text>
+
+  <circle cx="720" cy="340" r="8" fill="#58A6FF"/>
+  <text x="745" y="346" fill="#C9D1D9" font-size="18">Prometheus</text>
+
+  <circle cx="720" cy="380" r="8" fill="#58A6FF"/>
+  <text x="745" y="386" fill="#C9D1D9" font-size="18">Grafana</text>
+
+  <circle cx="720" cy="420" r="8" fill="#58A6FF"/>
+  <text x="745" y="426" fill="#C9D1D9" font-size="18">ELK Stack</text>
+
+  <circle cx="720" cy="460" r="8" fill="#58A6FF"/>
+  <text x="745" y="466" fill="#C9D1D9" font-size="18">Infrastructure as Code</text>
+
+</svg>

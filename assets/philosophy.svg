@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<rect width="1000" height="420" fill="#0D1117"/>
+
+<text x="40" y="60"
+fill="#58A6FF"
+font-size="32"
+font-family="Arial"
+font-weight="bold">
+DevOps Philosophy
+</text>
+
+<text x="40" y="95"
+fill="#8B949E"
+font-size="16"
+font-family="Arial">
+Learn • Build • Automate • Deploy • Monitor • Improve • Repeat
+</text>
+
+<!-- Main Line -->
+<line x1="120" y1="220" x2="880" y2="220"
+stroke="#30363D"
+stroke-width="6"/>
+
+<!-- Animated Pulse -->
+<circle r="8" fill="#58A6FF">
+  <animateMotion
+    dur="5s"
+    repeatCount="indefinite"
+    path="M120 220 L880 220"/>
+</circle>
+
+<!-- Nodes -->
+
+<circle cx="120" cy="220" r="32" fill="#161B22" stroke="#3FB950" stroke-width="3"/>
+<text x="95" y="226" fill="#3FB950" font-size="16">Learn</text>
+
+<circle cx="245" cy="220" r="32" fill="#161B22" stroke="#58A6FF" stroke-width="3"/>
+<text x="220" y="226" fill="#58A6FF" font-size="16">Build</text>
+
+<circle cx="370" cy="220" r="32" fill="#161B22" stroke="#D29922" stroke-width="3"/>
+<text x="330" y="226" fill="#D29922" font-size="14">Automate</text>
+
+<circle cx="495" cy="220" r="32" fill="#161B22" stroke="#A371F7" stroke-width="3"/>
+<text x="468" y="226" fill="#A371F7" font-size="16">Deploy</text>
+
+<circle cx="620" cy="220" r="32" fill="#161B22" stroke="#F85149" stroke-width="3"/>
+<text x="585" y="226" fill="#F85149" font-size="16">Monitor</text>
+
+<circle cx="745" cy="220" r="32" fill="#161B22" stroke="#FFA657" stroke-width="3"/>
+<text x="715" y="226" fill="#FFA657" font-size="16">Improve</text>
+
+<circle cx="870" cy="220" r="32" fill="#161B22" stroke="#3FB950" stroke-width="3"/>
+<text x="845" y="226" fill="#3FB950" font-size="16">Repeat</text>
+
+</svg>

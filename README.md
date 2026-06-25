@@ -1,14 +1,33 @@
-<div align="center"><img src="./new2.png" width="100%" alt="Saman Qasempour Banner"/>👋 Hi, I'm Saman Qasempour
+<div align="center">
 
-🚀 DevOps Engineer
+<img src="./new2.png" width="100%" alt="Saman Qasempour Banner"/>
+
+# 👋 Hi, I'm Saman Qasempour
+
+### 🚀 DevOps Engineer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p></div>---
+  <img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-🚀 About Me
+</div>
 
-I'm passionate about Linux, Infrastructure, Automation and DevOps.
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Saman Qasempour
+Role: DevOps Engineer
+Focus:
+  - Linux
+  - Docker
+  - CI/CD
+  - Infrastructure
+  - Automation
+Current Goal:
+  Become a Professional DevOps Engineer
+```
 
 - 🐧 Linux Enthusiast
 - 🐳 Docker & Containerization
@@ -16,42 +35,40 @@ I'm passionate about Linux, Infrastructure, Automation and DevOps.
 - 🔒 Network & Server Security
 - 🖥️ Server Administration
 - 🐍 Python Developer
-- ☁️ Future Cloud & Kubernetes Engineer
-- 📚 Always Learning New Technologies
+- ☁️ Cloud & Infrastructure
+- 📚 Lifelong Learner
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" /></div>---
+<div align="center">
 
-## 🛠️ Core Skills
+<img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" />
 
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux Server](https://img.shields.io/badge/Server_Administration-Advanced-success?style=for-the-badge)
-![Security](https://img.shields.io/badge/Network_Security-Intermediate-orange?style=for-the-badge)
+</div>
+
+---
+
+## 🎯 DevOps Skill Matrix
+
+```text
+Linux               ███████░░░░ 70%
+Docker              ████████░░░ 85%
+Python              ████████░░░ 85%
+CI/CD               ████████░░░ 80%
+Server Management   ████████░░░ 80%
+Network Security    ███████░░░░ 75%
+HTML                █████████░░ 90%
+CSS                 ████████░░░ 85%
+JavaScript          ████░░░░░░░ 40%
 ```
 
-📈 Skill Levels
-
-Skill| Level
-Linux| 70%
-Docker| 85%
-Python| 85%
-CI/CD| 80%
-Server Administration| 80%
-Network Security| 75%
-HTML| 90%
-CSS| 85%
-JavaScript| 40%
-
 ---
 
-🎯 Current Roadmap
+## 🗺️ Current Roadmap
 
+```text
 ✅ Linux
 ✅ Git & GitHub
 ✅ Docker
@@ -66,50 +83,91 @@ JavaScript| 40%
 🎯 AWS
 🎯 Prometheus
 🎯 Grafana
+🎯 ELK Stack
+```
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamanQasempour&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanQasempour&layout=compact&theme=tokyonight"/></div>---
+<div align="center">
 
-🔥 GitHub Streak
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamanQasempour&show_icons=true&theme=tokyonight"/>
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=SamanQasempour&theme=tokyonight"/></div>---
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanQasempour&layout=compact&theme=tokyonight"/>
 
-🚀 Featured Technologies
+</div>
 
-<p align="center"><img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/CI/CD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" /></p>---
+---
 
-📂 Featured Projects
+## 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SamanQasempour&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 DevOps Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux_Server-Administration-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Network-Security-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+```text
 🐳 Dockerized Applications
 ⚙️ CI/CD Pipelines
-🐧 Linux Server Management
-🔒 Network & Server Security
+🐧 Linux Server Administration
+🔒 Security Hardening
 ☁️ Cloud Infrastructure
-🤖 Automation Scripts
+🤖 Python Automation Scripts
+```
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-- Telegram: @Saman_Qasempour
-- Email: samann1389@gmail.com
+📧 Email:  samann1389@gmail.com
+
+💬 Telegram:  @Saman_Qasempour
 
 ---
 
-⚡ DevOps Philosophy
+## ⚡ DevOps Philosophy
 
+```bash
 $ learn
 $ build
 $ automate
 $ deploy
 $ monitor
 $ improve
+```
 
 ---
 
-<div align="center">🚀 Building Reliable Infrastructure One Commit at a Time
+<div align="center">
+
+### 🚀 Building Reliable Infrastructure One Commit at a Time
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Linux+Enthusiast;Docker+%26+CI%2FCD;Infrastructure+Automation;Always+Learning+New+Things"/>
 
 </div>

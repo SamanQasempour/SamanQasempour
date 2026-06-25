@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new.png" width="180" style="border-radius:50%"/>
+  <img src="new2.png" width="180" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Saman Qasempour! 👋</h1>

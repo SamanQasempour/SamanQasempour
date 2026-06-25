@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="550" viewBox="0 0 1000 550">
+
+  <rect width="1000" height="550" fill="#0D1117"/>
+
+  <text x="40" y="60" fill="#58A6FF" font-size="32" font-family="Arial">
+    DevOps Roadmap
+  </text>
+
+  <text x="40" y="95" fill="#8B949E" font-size="16" font-family="Arial">
+    My Journey to Professional DevOps Engineering
+  </text>
+
+  <!-- Progress -->
+  <text x="40" y="140" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Progress: 60%
+  </text>
+
+  <rect x="40" y="155" width="700" height="20" rx="10" fill="#21262D"/>
+  <rect x="40" y="155" width="420" height="20" rx="10" fill="#3FB950"/>
+
+  <!-- Completed -->
+  <rect x="40" y="220" width="260" height="250" rx="12" fill="#161B22"/>
+
+  <text x="60" y="255" fill="#3FB950" font-size="22" font-family="Arial">
+    Completed
+  </text>
+
+  <text x="60" y="300" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Linux Administration
+  </text>
+
+  <text x="60" y="335" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Git and GitHub
+  </text>
+
+  <text x="60" y="370" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Docker
+  </text>
+
+  <text x="60" y="405" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Python Automation
+  </text>
+
+  <text x="60" y="440" fill="#C9D1D9" font-size="18" font-family="Arial">
+    CI/CD Fundamentals
+  </text>
+
+  <!-- Learning -->
+  <rect x="370" y="220" width="260" height="250" rx="12" fill="#161B22"/>
+
+  <text x="390" y="255" fill="#D29922" font-size="22" font-family="Arial">
+    Learning Now
+  </text>
+
+  <text x="390" y="310" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Kubernetes
+  </text>
+
+  <text x="390" y="345" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Terraform
+  </text>
+
+  <text x="390" y="380" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Ansible
+  </text>
+
+  <!-- Goals -->
+  <rect x="700" y="220" width="260" height="250" rx="12" fill="#161B22"/>
+
+  <text x="720" y="255" fill="#58A6FF" font-size="22" font-family="Arial">
+    Next Goals
+  </text>
+
+  <text x="720" y="300" fill="#C9D1D9" font-size="18" font-family="Arial">
+    AWS
+  </text>
+
+  <text x="720" y="335" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Prometheus
+  </text>
+
+  <text x="720" y="370" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Grafana
+  </text>
+
+  <text x="720" y="405" fill="#C9D1D9" font-size="18" font-family="Arial">
+    ELK Stack
+  </text>
+
+  <text x="720" y="440" fill="#C9D1D9" font-size="18" font-family="Arial">
+    Infrastructure as Code
+  </text>
+
+</svg>

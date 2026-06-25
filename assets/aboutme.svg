@@ -1,0 +1,57 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00FF85"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="320" rx="20" fill="#0D1117"/>
+  <rect width="1000" height="320" rx="20" fill="url(#grid)" opacity="0.4"/>
+
+  <!-- Header -->
+  <text x="40" y="60" fill="url(#neon)" font-size="30" font-family="monospace" filter="url(#glow)">
+    🚀 DevOps Engineer | Linux | Cloud | Automation
+  </text>
+
+  <!-- Typing effect line (static SVG style) -->
+  <text x="40" y="105" fill="#58A6FF" font-size="18" font-family="monospace">
+    &gt; Booting profile... initializing DevOps environment...
+  </text>
+
+  <text x="40" y="140" fill="#A5D6FF" font-size="18" font-family="monospace">
+    🐧 Linux • 🐳 Docker • ⚙️ CI/CD • ☁️ Kubernetes • 🔒 Security
+  </text>
+
+  <text x="40" y="175" fill="#93C5FD" font-size="18" font-family="monospace">
+    🐍 Python Automation • 📡 Networking • 🧠 System Design
+  </text>
+
+  <text x="40" y="210" fill="#FACC15" font-size="18" font-family="monospace">
+    📐 Math-Physics Student • 👨‍💻 DevOps Engineer @ Nibero Team
+  </text>
+
+  <text x="40" y="245" fill="#7EE787" font-size="18" font-family="monospace">
+    ☁️ Cloud Infrastructure • 🧩 Microservices • 🚀 CI/CD Pipelines
+  </text>
+
+  <text x="40" y="285" fill="#00FF85" font-size="16" font-family="monospace" filter="url(#glow)">
+    📚 Always learning. Always building. Always scaling systems.
+  </text>
+
+</svg>

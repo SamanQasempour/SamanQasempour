@@ -1,4 +1,4 @@
-<div align="center"><img src="./new.png" width="100%" alt="Banner"/>👋 Hi, I'm Saman Qasempour
+<div align="center"><img src="./new2.png" width="100%" alt="Banner"/>👋 Hi, I'm Saman Qasempour
 
 🚀 DevOps Engineer
 

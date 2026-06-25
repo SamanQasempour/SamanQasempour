@@ -101,17 +101,10 @@
 
 ---
 
-## ⚡ DevOps Philosophy
 
-```bash
-learn
-build
-automate
-deploy
-monitor
-improve
-repeat
-```
+<p align="center">
+  <img src="./assets/philosophy.svg" width="100%">
+</p>`
 
 ---
 

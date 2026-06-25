@@ -1,0 +1,40 @@
+<svg width="800" height="320" viewBox="0 0 800 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="800" height="320" rx="16" fill="#0D1117"/>
+<rect x="1" y="1" width="798" height="318" rx="15" stroke="#30363D"/>
+
+<text x="30" y="45" fill="#58A6FF" font-size="28" font-family="Arial" font-weight="bold">
+DevOps Skills
+</text>
+
+<text x="30" y="90" fill="#C9D1D9" font-size="18">Linux</text>
+<rect x="150" y="75" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="75" width="400" height="18" rx="9" fill="#3FB950"/>
+<text x="670" y="90" fill="#3FB950" font-size="16">80%</text>
+
+<text x="30" y="130" fill="#C9D1D9" font-size="18">Docker</text>
+<rect x="150" y="115" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="115" width="400" height="18" rx="9" fill="#58A6FF"/>
+<text x="670" y="130" fill="#58A6FF" font-size="16">80%</text>
+
+<text x="30" y="170" fill="#C9D1D9" font-size="18">Python</text>
+<rect x="150" y="155" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="155" width="400" height="18" rx="9" fill="#F7DF1E"/>
+<text x="670" y="170" fill="#F7DF1E" font-size="16">80%</text>
+
+<text x="30" y="210" fill="#C9D1D9" font-size="18">CI/CD</text>
+<rect x="150" y="195" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="195" width="375" height="18" rx="9" fill="#FF7B72"/>
+<text x="670" y="210" fill="#FF7B72" font-size="16">75%</text>
+
+<text x="30" y="250" fill="#C9D1D9" font-size="18">Infrastructure</text>
+<rect x="150" y="235" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="235" width="350" height="18" rx="9" fill="#A371F7"/>
+<text x="670" y="250" fill="#A371F7" font-size="16">70%</text>
+
+<text x="30" y="290" fill="#C9D1D9" font-size="18">Automation</text>
+<rect x="150" y="275" width="500" height="18" rx="9" fill="#21262D"/>
+<rect x="150" y="275" width="350" height="18" rx="9" fill="#FFA657"/>
+<text x="670" y="290" fill="#FFA657" font-size="16">70%</text>
+
+</svg>

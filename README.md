@@ -25,6 +25,16 @@ I'm passionate about Linux, Infrastructure, Automation and DevOps.
 
 <div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" /></div>---
 
+## 🛠️ Core Skills
+
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux Server](https://img.shields.io/badge/Server_Administration-Advanced-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/Network_Security-Intermediate-orange?style=for-the-badge)
+```
+
 📈 Skill Levels
 
 Skill| Level

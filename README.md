@@ -56,10 +56,11 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/skills.svg" width="100%">
-</p>
+## 🗺️ DevOps Roadmap
 
+<p align="center">
+  <img src="./assets/roadmap.svg" width="100%">
+</p>
 ---
 
 

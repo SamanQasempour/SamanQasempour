@@ -6,10 +6,11 @@
 
 ### 🚀 DevOps Engineer
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&width=500&lines=Hi+I'm+Saman+Qasempour;DevOps+Engineer+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Infrastructure+%26+Automation;Building+Scalable+Systems;On+the+Road+to+Pro+Engineer)](https://git.io/typing-svg)
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=800\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Saman+Qasempour;DevOps+Engineer+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Infrastructure+%26+Automation;Building+Scalable+Systems;On+the+Road+to+Pro+Engineer)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -17,27 +18,13 @@
 
 ## 🚀 About Me
 
-```yaml
-Name: Saman Qasempour
-Role: DevOps Engineer
-Focus:
-  - Linux
-  - Docker
-  - CI/CD
-  - Infrastructure
-  - Automation
-Current Goal:
-  Become a Professional DevOps Engineer
-```
-
-- 🐧 Linux Enthusiast
-- 🐳 Docker & Containerization
-- ⚙️ CI/CD Automation
-- 🔒 Network & Server Security
-- 🖥️ Server Administration
-- 🐍 Python Developer
-- ☁️ Cloud & Infrastructure
-- 📚 Lifelong Learner
+* 🐧 Linux Enthusiast & System Administrator
+* 🐳 Passionate about Docker and Containerization
+* ⚙️ Building CI/CD Pipelines and Automation Workflows
+* ☁️ Learning Cloud Infrastructure & Kubernetes
+* 🔒 Interested in Network and Server Security
+* 🐍 Using Python for Automation and DevOps Tasks
+* 📚 Always Learning and Improving Every Day
 
 ---
 
@@ -45,44 +32,54 @@ Current Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,js,html,css,bash,git,github,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git,github,nginx,vscode,html,css,js" />
 
 </div>
 
 ---
+
 ## ☁️ Cloud & DevOps Ecosystem
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=for-the-badge&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux)
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
 
 ---
-## 🎯 DevOps Skill Matrix
+
+## 🎯 Core Skills
 
 ```text
-Linux               ███████░░░░ 70%
-Docker              ████████░░░ 85%
-Python              ████████░░░ 85%
-CI/CD               ████████░░░ 80%
-Server Management   ████████░░░ 80%
-Network Security    ███████░░░░ 75%
-HTML                █████████░░ 90%
-CSS                 ████████░░░ 85%
-JavaScript          ████░░░░░░░ 40%
+Linux               ████████░░ 80%
+Docker              ████████░░ 80%
+Python              ████████░░ 80%
+CI/CD               ███████░░░ 75%
+Infrastructure      ███████░░░ 70%
+Automation          ███████░░░ 70%
+Networking          ██████░░░░ 65%
+Security            ██████░░░░ 65%
 ```
 
 ---
 
-## 🗺️ Current Roadmap
+## 🗺️ Current Learning Roadmap
 
 ```text
-✅ Linux
+✅ Linux Administration
 ✅ Git & GitHub
 ✅ Docker
-✅ Python
-✅ Server Administration
-✅ CI/CD
+✅ Python Automation
+✅ Server Management
+✅ CI/CD Fundamentals
 
 🔄 Kubernetes
 🔄 Terraform
@@ -92,6 +89,7 @@ JavaScript          ████░░░░░░░ 40%
 🎯 Prometheus
 🎯 Grafana
 🎯 ELK Stack
+🎯 Infrastructure as Code
 ```
 
 ---
@@ -118,67 +116,41 @@ JavaScript          ████░░░░░░░ 40%
 
 ---
 
-## 🚀 DevOps Toolkit
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamanQasempour&theme=react-dark"/>
 
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux_Server-Administration-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Network-Security-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-```text
-🐳 Dockerized Applications
-⚙️ CI/CD Pipelines
-🐧 Linux Server Administration
-🔒 Security Hardening
-☁️ Cloud Infrastructure
-🤖 Python Automation Scripts
-```
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email:  samann1389@gmail.com
-
-💬 Telegram:  @Saman_Qasempour
+* 📧 Email: **[samann1389@gmail.com](mailto:samann1389@gmail.com)**
+* 💬 Telegram: **@Saman_Qasempour**
 
 ---
 
 ## ⚡ DevOps Philosophy
 
 ```bash
-$ learn
-$ build
-$ automate
-$ deploy
-$ monitor
-$ improve
+learn
+build
+automate
+deploy
+monitor
+improve
+repeat
 ```
 
-## 🔥 Contribution Graph
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SamanQasempour&theme=react-dark)
 ---
 
 <div align="center">
 
 ### 🚀 Building Reliable Infrastructure One Commit at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Linux+Enthusiast;Docker+%26+CI%2FCD;Infrastructure+Automation;Always+Learning+New+Things"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=DevOps+Engineer;Linux+Enthusiast;Docker+%26+CI%2FCD;Infrastructure+Automation;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>

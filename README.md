@@ -6,6 +6,7 @@
 
 ### 🚀 DevOps Engineer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&width=500&lines=Hi+I'm+Saman+Qasempour;DevOps+Engineer+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Infrastructure+%26+Automation;Building+Scalable+Systems;On+the+Road+to+Pro+Engineer)](https://git.io/typing-svg)
 <p>
   <img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>

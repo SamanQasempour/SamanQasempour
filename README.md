@@ -58,14 +58,9 @@
 
 ## 🎯 DevOps Skills
 
-![Linux](https://progress-bar.dev/80/?title=Linux)
-![Docker](https://progress-bar.dev/80/?title=Docker)
-![Python](https://progress-bar.dev/80/?title=Python)
-![CI/CD](https://progress-bar.dev/75/?title=CI/CD)
-![Infrastructure](https://progress-bar.dev/70/?title=Infrastructure)
-![Automation](https://progress-bar.dev/70/?title=Automation)
-![Networking](https://progress-bar.dev/65/?title=Networking)
-![Security](https://progress-bar.dev/65/?title=Security)
+<p align="center">
+  <img src="./assets/skills.svg" width="100%">
+</p>
 
 ---
 

@@ -1,0 +1,73 @@
+<svg width="900" height="500" viewBox="0 0 900 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title { fill:#58A6FF; font:700 28px Arial; }
+.subtitle { fill:#8B949E; font:16px Arial; }
+.done { fill:#3FB950; font:700 18px Arial; }
+.progress { fill:#D29922; font:700 18px Arial; }
+.future { fill:#58A6FF; font:700 18px Arial; }
+.line { stroke:#30363D; stroke-width:3; }
+</style>
+
+<rect width="900" height="500" rx="16" fill="#0D1117"/>
+<rect x="1" y="1" width="898" height="498" rx="15" stroke="#30363D"/>
+
+<text x="30" y="45" class="title">🚀 DevOps Roadmap</text>
+<text x="30" y="75" class="subtitle">My Learning Journey</text>
+
+<!-- Progress -->
+<text x="30" y="115" fill="#C9D1D9" font-size="18">Overall Progress</text>
+<rect x="30" y="130" width="700" height="20" rx="10" fill="#21262D"/>
+<rect x="30" y="130" width="420" height="20" rx="10" fill="#3FB950"/>
+<text x="750" y="146" fill="#3FB950" font-size="16">60%</text>
+
+<!-- Completed -->
+<circle cx="80" cy="210" r="14" fill="#3FB950"/>
+<text x="110" y="216" class="done">Linux Administration</text>
+
+<line x1="80" y1="224" x2="80" y2="255" class="line"/>
+
+<circle cx="80" cy="275" r="14" fill="#3FB950"/>
+<text x="110" y="281" class="done">Git & GitHub</text>
+
+<line x1="80" y1="289" x2="80" y2="320" class="line"/>
+
+<circle cx="80" cy="340" r="14" fill="#3FB950"/>
+<text x="110" y="346" class="done">Docker</text>
+
+<line x1="80" y1="354" x2="80" y2="385" class="line"/>
+
+<circle cx="80" cy="405" r="14" fill="#3FB950"/>
+<text x="110" y="411" class="done">Python Automation</text>
+
+<!-- In Progress -->
+<circle cx="450" cy="210" r="14" fill="#D29922"/>
+<text x="480" y="216" class="progress">Kubernetes</text>
+
+<line x1="450" y1="224" x2="450" y2="255" class="line"/>
+
+<circle cx="450" cy="275" r="14" fill="#D29922"/>
+<text x="480" y="281" class="progress">Terraform</text>
+
+<line x1="450" y1="289" x2="450" y2="320" class="line"/>
+
+<circle cx="450" cy="340" r="14" fill="#D29922"/>
+<text x="480" y="346" class="progress">Ansible</text>
+
+<!-- Future -->
+<circle cx="720" cy="210" r="14" fill="#58A6FF"/>
+<text x="750" y="216" class="future">AWS</text>
+
+<circle cx="720" cy="260" r="14" fill="#58A6FF"/>
+<text x="750" y="266" class="future">Prometheus</text>
+
+<circle cx="720" cy="310" r="14" fill="#58A6FF"/>
+<text x="750" y="316" class="future">Grafana</text>
+
+<circle cx="720" cy="360" r="14" fill="#58A6FF"/>
+<text x="750" y="366" class="future">ELK Stack</text>
+
+<circle cx="720" cy="410" r="14" fill="#58A6FF"/>
+<text x="750" y="416" class="future">Infrastructure as Code</text>
+
+</svg>

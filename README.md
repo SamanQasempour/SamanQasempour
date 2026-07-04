@@ -65,13 +65,9 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamanQasempour&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanQasempour&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="GitHub Statistics" width="100%">
+</p>
 
 ---
 

@@ -1,17 +1,20 @@
-
+<div align="center">
+  
 
 <img src="./new2.png" width="100%" alt="Saman Qasempour Banner"/>
 
-# 👋 Hi, I'm Saman Qasempour
-
-### 🚀 DevOps Engineer
+<h1 align="center">👋 Hi, I'm Saman Qasempour</h1>
+<p align="center">
+  DevOps Engineer • Python Developer • AI Enthusiast
+</p>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=800\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Saman+Qasempour;DevOps+Engineer+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Infrastructure+%26+Automation;Building+Scalable+Systems;On+the+Road+to+Pro+Engineer)](https://git.io/typing-svg)
 
+</div>
 <br>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=SamanQasempour&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -123,15 +126,13 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samann1389@gmail.com)
 
 ---
-
-
 <p align="center">
   <img src="./assets/philosophy.svg" width="100%">
-</p>`
+</p>
 
 ---
 
-<div align="center">
+<br>
 
 ### 🚀 Building Reliable Infrastructure One Commit at a Time
 

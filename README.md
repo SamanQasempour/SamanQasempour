@@ -85,9 +85,12 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-@yasinfallahatiiii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saman_Qasempour)
-[![Instagram](https://img.shields.io/badge/Instagram-@yasinfallahatiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saman_s.m.g)
-[![GitHub](https://img.shields.io/badge/GitHub-yasinfallahati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamanQasempour)
+[![Telegram](https://img.shields.io/badge/Telegram-@Saman_Qasempour-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saman_Qasempour)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@saman_s.m.g-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saman_s.m.g)
+
+[![GitHub](https://img.shields.io/badge/GitHub-SamanQasempor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamanQasempour)
+
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samann1389@gmail.com)
 
 ---

@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saman%20Qasempour&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
+
 
 <img src="./new2.png" width="100%" alt="Saman Qasempour Banner"/>
 

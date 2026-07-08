@@ -22,14 +22,44 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Linux+Administrator;Automation+Specialist;Telegram+Bot+Developer;Python+Developer;AI+Infrastructure+Learner" />
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git,github,nginx,vscode,html,css,js" />
+### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark" />
+
+<br><br>
+
+### ⚙️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,kubernetes,git,github,githubactions,terraform,ansible,nginx&theme=dark" />
+
+<br><br>
+
+### 📊 Monitoring & Databases
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres,redis,sqlite&theme=dark" />
+
+<br><br>
+
+### 🛠 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman&theme=dark" />
+
+<br><br>
+
+### 🚀 Additional Skills
+
+<img src="https://img.shields.io/badge/Telegram_Bot_Development-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation_Scripts-4CAF50?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </div>
-
 ---
 
 ## ☁️ Cloud & DevOps Ecosystem

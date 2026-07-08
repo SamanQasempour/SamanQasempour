@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saman%20Qasempour&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="./new2.png" width="100%" alt="Saman Qasempour Banner"/>
 
@@ -61,13 +62,6 @@
   <img src="./assets/roadmap.svg" width="100%">
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Statistics" width="100%">
-</p>
 
 ---
 
@@ -91,10 +85,10 @@
 
 ---
 
-## 📫 Connect With Me
-
-* 📧 Email: **[samann1389@gmail.com](mailto:samann1389@gmail.com)**
-* 💬 Telegram: **@Saman_Qasempour**
+[![Telegram](https://img.shields.io/badge/Telegram-@yasinfallahatiiii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saman_Qasempour)
+[![Instagram](https://img.shields.io/badge/Instagram-@yasinfallahatiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saman_s.m.g)
+[![GitHub](https://img.shields.io/badge/GitHub-yasinfallahati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamanQasempour)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samann1389@gmail.com)
 
 ---
 

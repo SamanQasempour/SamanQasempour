@@ -139,5 +139,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=DevOps+Engineer;Linux+Enthusiast;Docker+%26+CI%2FCD;Infrastructure+Automation;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
-<img src="./SamanQasempour/assets/photo29242254027.jpg" width="100%" alt="Saman Qasempour Banner"/>
+<img src="./photo29242254027.jpg" width="100%" alt="Saman Qasempour Banner"/>
 

@@ -107,15 +107,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamanQasempour&theme=react-dark"/>
-
-</div>
-
----
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Saman_Qasempour-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saman_Qasempour)
 

@@ -141,9 +141,7 @@
 </div>
 <img src="./assets/photo29242254027.jpg" width="100%" alt="Saman Qasempour Banner"/>
 <div align="center">
-
-  
-  <picture>
+<picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/SamanQasempour/SamanQasempour/output/github-contribution-grid-snake-dark.svg"
